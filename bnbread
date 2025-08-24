@@ -2,10 +2,26 @@
 <html lang="en">
 <meta charset="UTF-8">
 <body>
-<h1></h1>
 <p><a href:"https://github.com/WJPLAUD/odin-recipes/blob/main/index.html">Home</a></p>
+<h1>Banana nut Bread</h1>
+<img src="https://media.istockphoto.com/id/2205662994/photo/whole-wheat-banana-bread.jpg?s=1024x1024&w=is&k=20&c=GXCNjj3xjIJ2KO_RTd0iaGM3ueSPHH0lUhCdT5Xzhi4=">
 <ul>
-<li><a href:"https://www.allrecipes.com/recipe/7116/banana-bread-quick-bread-for-machines/index.html">Banana Bread</a></li>
+<li>2 bananas, peeled and halved lengthwise</li>
+<li>2 cups all-purpose flour</li>
+<li>¾ cup white sugar</li>
+<li>2 large eggs</li>
+<li>3 tablespoons vegetable oil</li>
+<li>1 teaspoon baking powder</li>
+<li>½ teaspoon baking soda</li>
 </ul>
+<h3>Directions</h3>
+
+    <p>Place bananas, flour, sugar, eggs, oil, baking powder, and baking soda in the pan of the bread machine.</p>
+
+    <p>Select Dough setting; press Start. Mix dough until well combined and bananas are mashed, 3 to 5 minutes. Use a rubber spatula to push dough from the sides of the bread pan if necessary. Press Stop, then smooth out the top of the loaf with a rubber spatula.</p>
+
+    <p>Select Bake setting; press Start. Bake in the bread machine until a toothpick inserted into the center comes out clean, about 50 minutes. If there is batter on the toothpick, reset the machine on Bake and continue baking for 10 to 15 minutes.</p>
+
+    <p>Remove the pan from the machine. Allow bread to remain in the pan for 10 minutes before transferring it to a wire rack to cool completely. </p>
 </body>
 </html>
